@@ -17,7 +17,7 @@
 
   <img alt="License" src="https://img.shields.io/github/license/andrelinos/nlw-11-habits?color=56BEB8">
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
@@ -122,7 +122,7 @@ $ npm expo start --clear
 
 ## Project WEB
 
-[<img src="./.github/images/web.png" alt="Nlw 11 Habits" />](/api)
+[<img src="./.github/images/web.png" alt="Nlw 11 Habits" />](/web)
 
 </div>
 
@@ -130,7 +130,7 @@ $ npm expo start --clear
 
 ## Project MOBILE
 
-[<img src="./.github/images/mobile.png" alt="Nlw 11 Habits" />](/api)
+[<img src="./.github/images/mobile.png" alt="Nlw 11 Habits" />](/mobile)
 
 </div>
 
