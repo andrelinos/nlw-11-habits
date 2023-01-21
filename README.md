@@ -134,6 +134,14 @@ $ npm expo start --clear
 
 </div>
 
+<div align="center" id="video">
+
+## Video project running
+
+[![Show video application running](https://img.youtube.com/vi/RPk0yheEjOk/0.jpg)](https://www.youtube.com/watch?v=RPk0yheEjOk)
+
+</div>
+
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
